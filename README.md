@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
-# The repository is created keep track of game scores.
+# The repository is created to develop simple calculation using a react application
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <h1><b>Leader-Board AMANUEL</b></h1>
+  <h1><b>Math-Magician AMANUEL</b></h1>
   <br/>
 
 </div>
@@ -34,9 +34,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Leader board] <a name="about-project"></a>
+# 📖 [Math-Magician] <a name="about-project"></a>
 
-**[leader board]** is a simple web that lists the game scores.
+**[Math-Magician]** is a simple react app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -56,7 +56,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **[set up ]**
-- **[updating and storing data - API]**
+- **[make simple calculations]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,12 +103,6 @@ Example commands:
 
 ### Install
 
-Install this project with:
-http server:
-
-npm install http-server -g
-http-server
-
 <!--
 Example command:
 
@@ -121,8 +115,6 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
-
-To get the recent results of the score and data use GET method to fetch the scores from API
 
 <!--
 Example command:
@@ -184,7 +176,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/amanuelbelete95/leader-board/issues).
+Feel free to check the [issues page](https://github.com/amanuelbelete95/math-magician-one/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
