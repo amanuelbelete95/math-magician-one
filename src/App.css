@@ -23,7 +23,7 @@ body {
   box-shadow: 7px 7px 5px 0 rgba(50, 50, 50, 0.75);
 }
 
-.wraper {
+.wrapper {
   display: grid;
   background-color: #ffffffb4;
   height: 100%;
@@ -32,6 +32,7 @@ body {
   grid-template-rows: repeat(6, 1fr);
   gap: 10px;
   padding: 10px;
+  overflow: hidden;
 }
 
 .screen {
@@ -40,10 +41,12 @@ body {
   align-items: flex-end;
   grid-column: 1 / -1;
   color: white;
-  text-align: center;
+  text-align: right;
   overflow: hidden;
   font-size: 3rem;
   background-color: gray;
+  white-space: nowrap;
+  padding: 10px;
 }
 
 .btn {
@@ -57,4 +60,16 @@ body {
 
 .orange {
   background-color: orange;
+}
+
+.zero {
+  grid-column: 1 / span 2;
+  display: flex;
+  justify-content: center;
+  border-radius: 25px;
+
+  /* place-content: unset;
+  align-items: center; */
+
+  /* padding-left: 2rem; */
 }
