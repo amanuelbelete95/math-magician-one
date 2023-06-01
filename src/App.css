@@ -41,12 +41,12 @@ body {
   align-items: flex-end;
   grid-column: 1 / -1;
   color: white;
-  text-align: right;
+  text-align: justify;
   overflow: hidden;
   font-size: 3rem;
   background-color: gray;
   white-space: nowrap;
-  padding: 10px;
+  padding: 5px;
 }
 
 .btn {

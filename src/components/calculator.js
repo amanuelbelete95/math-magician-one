@@ -37,7 +37,7 @@ const Calculator = () => {
         <Button className="btn light-gray" onClick={() => handleButtonClick('AC')}>AC</Button>
         <Button className="btn light-gray" onClick={() => handleButtonClick('+/-')}>+/-</Button>
         <Button className="btn light-gray" onClick={() => handleButtonClick('%')}>%</Button>
-        <Button className="btn orange" onClick={() => handleButtonClick('/')}>/</Button>
+        <Button className="btn orange" onClick={() => handleButtonClick('÷')}>/</Button>
         <Button className="btn" onClick={() => handleButtonClick('7')}>7</Button>
         <Button className="btn" onClick={() => handleButtonClick('8')}>8</Button>
         <Button className="btn" onClick={() => handleButtonClick('9')}>9</Button>
