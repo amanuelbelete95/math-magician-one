@@ -60,7 +60,7 @@
 
 <!-- LIVE DEMO -->
 
-- [🚀 Live Demo](#live-demo)
+- [🚀 Live Demo](https://mathmagician-z39r.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
