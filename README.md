@@ -60,6 +60,8 @@
 
 <!-- LIVE DEMO -->
 
+- [🚀 Live Demo](#live-demo)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
